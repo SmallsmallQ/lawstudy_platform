@@ -22,6 +22,12 @@
 - 经济法与金融法
 - 比较法与科技法
 
+## 三大学习模块入口
+
+- [法学生必备技能库](/skills/overview)
+- [基础法学门径](/fundamentals/overview)
+- [前沿交叉学科探索](/frontier/overview)
+
 ## 使用建议
 
 1. 先确定你所处的学习阶段。
